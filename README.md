@@ -1,6 +1,7 @@
 # 投射ラボ
 
 初速と投射角度からボールの放物運動を表示する、小さなブラウザアプリです。
+https://keizoliberalartslab.github.io/BallProjection/
 
 ## 使い方
 
