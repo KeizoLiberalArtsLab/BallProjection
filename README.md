@@ -2,11 +2,19 @@
 
 初速と投射角度からボールの放物運動を表示する、小さなブラウザアプリです。
 
-https://keizoliberalartslab.github.io/P001_BallProjection/
+## アプリを起動する
+
+**[▶ 投射ラボを開く](https://keizoliberalartslab.github.io/P001_BallProjection/)**
+
+配布・共有用URL：https://keizoliberalartslab.github.io/P001_BallProjection/
+
+上のリンクをブラウザで開くと利用できます。インストールやGitHubへのログインは不要です。ほかの方に使ってもらう場合は、このURLを共有してください。
 
 ## 使い方
 
-`index.html` をブラウザで開いてください。インストールやビルドは不要です。
+上の「投射ラボを開く」リンクからアプリを起動してください。
+
+ダウンロードして使う場合は、`index.html` をブラウザで開いてください。インストールやビルドは不要です。
 
 - 初速（1〜100 m/s）と角度（0〜90°）を入力すると予測軌道が更新されます。
 - 「ボールを投げる」で実時間のアニメーションを再生します。一時停止・再開もできます。
